@@ -138,12 +138,28 @@ strC = "#asdsad"
 print(strC.isalnum())
 
 # program 8
-
 info = 'i am learning javascript'
 info = info.replace('javascript','python')
 print(info)
 
 
+# program 9 
+info = "I am learning javascript"
+a = info.split(" ")
+b = info.split("a")
+print(a)
+print(b)
+
+#["I","am","learning","javascript"]
+#info = ["I ","m le,","rning j","v","script"]
+
+
+city = "nagpur"
+cu = city.upper()
+cua = city.capitalize()
+print(cu)
+print(cua)
+#"chinmaydeshpande@gmail.com".split('#')[0]
 
 
 
