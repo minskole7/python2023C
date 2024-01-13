@@ -1,4 +1,0 @@
-Download and install python - https://www.python.org/downloads/
-Download and install visual studio code - https://code.visualstudio.com/Download
-Open visual studio code and create a folder  and add the file day1.py
-Add the extensions -  pylance and python
