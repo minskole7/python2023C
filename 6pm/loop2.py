@@ -60,3 +60,7 @@ while i9 <= 5:
         continue
     print(i9) # 1  # 2 # 4 # 5
     i9 = i9 + 1  # 2  # 3 # 5 # 6
+
+
+for x in range(1,4,-2):
+    print(x)
